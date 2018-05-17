@@ -27,3 +27,5 @@ eth.sendTransaction({from: eth.accounts[0], to: eth.accounts[1], value: web3.toW
 ### Hard:
 
 ## Задание 3
+
+в процессе
