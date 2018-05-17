@@ -2,7 +2,7 @@
 
 ## Задание 1
 
-файл с комментариями по найденным уязвимостям VulnerableOne.sol
+файл с комментариями по найденным уязвимостям https://github.com/slastenovd/week4/blob/master/VulnerableOne.sol
 
 ## Задание2
 
