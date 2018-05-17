@@ -18,10 +18,11 @@ contract.transfer("0x71125a491A736da096c6e0a59229e18eDCA564f2", function(a,b){co
 ### Medium:
 Расчитан хэш sha256 фотки 0x37284d1ea063dd52b8344a871fbed9f7ef0185153237fad017d8726d448f3780 
 и записан в блокчейн rinkeby
+Чтобы транзакция была выполнена потребовалось "поддать газку" в окошке MetaMask
 
 eth.sendTransaction({from: eth.accounts[0], to: eth.accounts[1], value: web3.toWei(0.00001, 'ether'), data: '0x37284d1ea063dd52b8344a871fbed9f7ef0185153237fad017d8726d448f3780'})
 
-ссылка на транзакцию [https://rinkeby.etherscan.io/tx/0x7dca9fa35647aa6b801383c1a986c8978bf00d7a96952bdcfcb4af38cb7fad5e]
+ссылка на транзакцию https://rinkeby.etherscan.io/tx/0x7dca9fa35647aa6b801383c1a986c8978bf00d7a96952bdcfcb4af38cb7fad5e
 
 ### Hard:
 
